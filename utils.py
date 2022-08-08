@@ -53,3 +53,5 @@ def create_modal(text_modal, titre='Attention'):
     view.open()
 
 
+
+
